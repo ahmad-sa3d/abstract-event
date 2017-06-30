@@ -1,0 +1,33 @@
+{
+  "name": "abstract-event",
+  "version": "1.1.0",
+  "description": "Simple Event System for custom data types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmad-sa3d/abstract-event.git"
+  },
+  "keywords": [
+    "event",
+    "event-system",
+    "fire",
+    "handler",
+    "listener",
+    "trigger",
+    "custom"
+  ],
+  "author": "Ahmed Saad <a7mad.sa3d.2014@gmail.com>",
+  "licenses": [
+    {
+      "type": "cc-by-sa-4.0",
+      "url": "https://github.com/ahmad-sa3d/abstract-event/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/ahmad-sa3d/abstract-event/issues"
+  },
+  "homepage": "https://github.com/ahmad-sa3d/abstract-event#readme"
+}
